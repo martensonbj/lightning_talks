@@ -32,7 +32,7 @@
 ##### Lightning Talks
 
 * Greg Armstrong
-* Brenna Martenson
+* Brenna Martenson: BootstrapStudio Magic
 * Dan Winter
 * Emily Dowdle: Intro to DevOps
 * Jason Pilz
